@@ -1,3 +1,7 @@
+Goal:
+Create a game using godot inspired by the pokemon mystery dungeon series. 
+
+
 
 Ideas:
 - Main Char is a Witch
