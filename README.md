@@ -22,4 +22,4 @@ Features
 Accessibility Features:
 - Damage modifier (0-100%)
 - No wiki required*
-- 
+- Controller support for key remapping 
