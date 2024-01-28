@@ -8,6 +8,7 @@ Ideas:
 - partners (familiars) have a animal form and a 'human' form
 - can change partners between human and animal form
 - partners have different skills in each form
+- one time use skills as scrolls
 - fox -> foxgirl
 - cat -> catgirl
 - dog -> doggirl
